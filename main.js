@@ -1,6 +1,5 @@
 const display = document.querySelector('#displayHeader');
 const numBtns = document.querySelectorAll('.btn');
-const operationBtns = document.querySelectorAll('.btnOp');
 const clearBtn = document.querySelector('.btnClear');
 const equalBtn = document.querySelector('.btnEqual');
 //EVENT LISTENERS
